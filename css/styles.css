@@ -1,11 +1,7 @@
-/*
-Author: WebThemez
-Author URL: http://webthemez.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
-*/
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,600);
-@import url(http://fonts.googleapis.com/css?family=Space+Mono);
+
+@import url(//fonts.googleapis.com/css?family=PT+Sans+Narrow:regular,bold); 
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,800,600);
+@import url(//fonts.googleapis.com/css?family=Space+Mono);
 body {
 	color:#352318; 
 	font-family: 'Space Mono';
